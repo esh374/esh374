@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @esh374
+- 👀 I’m interested learning about app development and cybersecurity.
+- 🌱 I’m currently learning C++ in college and Swift for app development in my own time.
