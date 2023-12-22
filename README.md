@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @esh374
+- 👋 Hi! I'm a sophomore Data Science and Economics student.
 - 👀 I’m interested learning about app development and cybersecurity.
-- 🌱 I’m currently learning C++ in college and Swift for app development in my own time.
+- 🌱 I’m currently learning C++ and Python in college and learn Swift in my own time.
