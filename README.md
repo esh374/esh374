@@ -1,3 +1,3 @@
-- 👋 Hi! I'm a sophomore Data Science and Economics student.
-- 👀 I’m interested learning about app development and cybersecurity.
+- 💰 Hi! I'm a sophomore Data Science and Economics student.
+- 👾 I’m interested in app development and cybersecurity.
 - 🌱 I’m currently learning C++ and Python in college and learn Swift in my own time.
