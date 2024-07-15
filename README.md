@@ -1,5 +1,5 @@
 
-<img align="right" alt="thinking" width="250" src="https://raw.githubusercontent.com/esh374/esh374/main/giphyy.gif">
+<img align="right" alt="thinking" width="400" src="https://raw.githubusercontent.com/esh374/esh374/main/giphyy.gif">
 
 # 🙋🏻‍♀️ Hi! Nice to meet you :)
 
